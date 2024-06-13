@@ -3,3 +3,4 @@ added a feature from main
 
 add feature1
 merge conflict resolved
+add feature2
